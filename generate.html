@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./CSS/generate.css">
+    <title>RoStreamTV</title>
+</head>
+<body onload="onload()">
+  <div class="preloader" id="preloader"></div>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">RoStreamTV</a>
+          </div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="https://github.com/RoStreamTV/RoStreamTV.github.io/">GitHub Repository</a></li>
+              <li><a href="https://discord.gg/pFHkUE63tR">Discord</a></li>
+              <li class="active"><a href="#">Generate</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav> 
+
+      <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="head">RoStreamTV</h1>
+                <button class="button" onclick="redirect()">Redirect to page with m3u</button>
+                <button class="button" id="vae" onclick="embed()">View as embed</button>
+                <button class="button" id="su" onclick="showURL()">Show URL</button>
+                <input type="text" class="url" id="url" value="" readonly>
+                <button class="button" style="display: none;" id="cb" onclick="copy()">Copy</button>
+                <iframe style="display: none;" class="embed" id="embed" src=""></iframe>
+        </div>
+    </div>
+</body>
+    <script src="./JS/generate.js"></script>
+    <script>
+      // when page is fully loaded hide preloader using vanilla js
+      window.addEventListener('load', function() {
+        document.getElementById('preloader').style.display = 'none';
+      });
+  
+    </script>
+</html>

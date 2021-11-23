@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" href="Images/Favicon/favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./CSS/style.css">
+    <title>RoStreamTV</title>
+</head>
+<body>
+  <div class="preloader" id="preloader"></div>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">RoStreamTV</a>
+          </div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="https://github.com/RoStreamTV/RoStreamTV.github.io/">GitHub Repository</a></li>
+              <li><a href="https://discord.gg/pFHkUE63tR">Discord</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav> 
+      <div>
+          <div class="country">
+              <a href="generate.html?country=US"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" alt="image"></img></a>
+              <a href="generate.html?country=US"><h1 class="name">United States</h1></a>
+          </div>
+          <div class="country">
+            <a href="generate.html?country=RO"><img src="https://static.vecteezy.com/system/resources/previews/000/399/590/original/illustration-of-romania-flag-vector.jpg" alt="image"></img></a>
+            <a href="generate.html?country=RO"><h1 class="name">Romania</h1></a>
+        </div>
+        <div class="country">
+          <a href="generate.html?country=CZ"><img src="http://s1.bwallpapers.com/wallpapers/2014/05/29/czech-republic-flag_12125166.jpg" alt="image"></img></a>
+          <a href="generate.html?country=CZ"><h1 class="name">Czechia</h1></a>
+        </div>
+        <div class="country">
+          <a href="generate.html?country=SK"><img src="https://openclipart.org/image/2400px/svg_to_png/17752/tobias-Flag-of-Slovakia.png" alt="image"></img></a>
+          <a href="generate.html?country=SK"><h1 class="name">Slovakia</h1></a>
+        </div>
+      </div>
+</body>
+  <script>
+    // when page is fully loaded hide preloader using vanilla js
+    window.addEventListener('load', function() {
+      document.getElementById('preloader').style.display = 'none';
+    });
 
+  </script>
+</html>
