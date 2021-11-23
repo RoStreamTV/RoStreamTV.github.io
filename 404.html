@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" href="https://github.com/RoStreamTV/Images/Favicon/favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <title>RoStreamTV</title>
+    <style>
+        @font-face {
+            font-family: SHATTERB;
+            src: url(Fonts/SHATTERB.TTF);
+        }
+
+        html, body {
+            background-color: rgb(49, 49, 49);
+            width: 100%;
+            height: 98%;
+        }
+
+        .preloader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: #000 url('../Preloader/preloader.gif') no-repeat center center;
+            z-index: 99999;
+            width: 100%;
+            height: 100vh;
+        }
+
+        h1, p {
+            color: #fff;
+            text-align: center;
+            font-size: 20px;
+            font-family: SHATTERB;
+            font-weight: bold;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font-size: 100px;  
+        }
+    </style>
+</head>
+<body>
+  <div class="preloader" id="preloader"></div>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">RoStreamTV</a>
+          </div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+              <li><a href="/">Home</a></li>
+              <li><a href="https://github.com/RoStreamTV/RoStreamTV.github.io/">GitHub Repository</a></li>
+              <li><a href="https://discord.gg/pFHkUE63tR">Discord</a></li>
+              <li clas="active"><a href="#">404</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav> 
+      <h1>404 Not Found</h1>
+      <p>The page you are looking for might have been removed had its name changed or is temporarily unavailable.</p>
+        
+</body>
+  <script>
+    // when page is fully loaded hide preloader using vanilla js
+    window.addEventListener('load', function() {
+      document.getElementById('preloader').style.display = 'none';
+    });
+
+  </script>
+</html>
