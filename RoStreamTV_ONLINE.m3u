@@ -417,7 +417,7 @@ http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1,Angelus TV (Fara Stream)
 http://hls.protv.md/acasatv/acasatv.m3u8
 
-#EXTINF:-1,Bãlþi TV
+#EXTINF:-1,BÃ£lÃ¾i TV
 http://77.89.199.174:8000/play/1024/index.m3u8
 
 #EXTINF:-1,Antena 3
@@ -1688,6 +1688,9 @@ http://sofadad.co.uk:80/emma123/123emma/185127?checkedby:iptvcat.com
 
 #EXTINF:-1,NBC Sports Network
 http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/4ebd951c-8c3e-4024-a4d3-921d177dde30/mpegts
+
+#EXTINF:-1,Realitatea Sportiva
+https://livestream.realitatea.net/realitatea/sportiva/chunklist_w2047531777.m3u8
 
 #EXTINF:-1,DIGI Animal World
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/4527
