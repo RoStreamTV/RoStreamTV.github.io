@@ -1692,6 +1692,9 @@ http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/4ebd951c-8c3e-4024
 #EXTINF:-1,Realitatea Sportiva
 https://livestream.realitatea.net/realitatea/sportiva/chunklist_w2047531777.m3u8
 
+#EXTINF:-1,Realitatea Sportiva
+http://195.42.138.42:1935/realitatea/sportiva/playlist.m3u8
+
 #EXTINF:-1,DIGI Animal World
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/4527
 
