@@ -2099,6 +2099,9 @@ http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437328
 http://103.145.13.15:25461/live/promo/promo/2.m3u8
 
 #EXTINF:-1,Atomic TV
+http://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1,Atomic TV
 http://89.47.97.15/atomictv/atomictv.m3u8
 
 #EXTINF:-1,Minimax
