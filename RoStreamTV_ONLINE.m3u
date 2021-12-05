@@ -597,6 +597,9 @@ https://stream-aleph.m.ro/Aleph/Alephbiz.stream/playlist.m3u8
 #EXTINF:-1,Realitatea Star
 http://195.42.138.42:1935/realitatea/star/playlist.m3u8
 
+#EXTINF:-1,Euronews
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1039
+
 #EXTINF:-1,HBO
 http://ip365.cx:80/591479399642519/845556651954303/171313?checkedby:iptvcat.com
 
