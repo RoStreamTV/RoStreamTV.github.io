@@ -570,9 +570,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1,NewsMax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1,NewsMax TV
-http://new-pro.tv:8080/Chanaellalbania/aGu5Q97XSP/87449
-
 #EXTINF:-1,Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
