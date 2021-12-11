@@ -630,6 +630,9 @@ http://84.76.155.113:9981/stream/channelid/1243286142?ticket=63222262280DA34640B
 #EXTINF:-1,HBO
 http://84.76.155.113:9981/stream/channelid/1256772146?ticket=86395F5CBA4555FFBD65A23799E3803FE0DD1C17&profile=pass
 
+#EXTINF:-1,HBO
+http://84.76.155.113:9981/stream/channelid/147432408?ticket=44D78A9F48C49D3D93AE60A05296AB3D2B4FD26B&profile=pass
+
 #EXTINF:-1,FilmBox Extra
 http://deluxe-zapto.xyz:8080/AlexV1/LorenzV2/5404
 
