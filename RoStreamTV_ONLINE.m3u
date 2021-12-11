@@ -633,6 +633,9 @@ http://103.194.169.171:8282/CZ_FILMBOX_PREMIUM/mono.m3u8?token=93a611c10082e5eec
 #EXTINF:-1,Film+
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 
+#EXTINF:-1,Film+
+http://84.76.155.113:9981/stream/channelid/266812975?ticket=DB48CF48CB03EB1AFD9B091E4737F63030D2A5E7&profile=pass
+
 #EXTINF:-1,Film Now
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290263
 
