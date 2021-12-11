@@ -1735,6 +1735,9 @@ http://tv.globesrv.com:80/userdb079d/355036ebb6/45964
 #EXTINF:-1,Minimax
 http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437351
 
+#EXTINF:-1,Minimax
+http://84.76.155.113:9981/stream/channelid/485355003?ticket=58E1CC400BB54FE4FC5AA56D20DF27CB9B0B9197&profile=pass
+
 #EXTINF:-1,ducktv
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 
