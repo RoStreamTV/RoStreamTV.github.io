@@ -1420,6 +1420,9 @@ http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55425
 #EXTINF:-1,DocuBox
 http://tv.globesrv.com:80/userdb079d/355036ebb6/45939
 
+#EXTINF:-1,DocuBox
+http://84.76.155.113:9981/stream/channelid/2091337055?ticket=50584013A3496D424FB9414058127088E81A8449&profile=pass
+
 #EXTINF:-1,Bel Radio Pros
 https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8?checkedby:iptvcat.com
 
