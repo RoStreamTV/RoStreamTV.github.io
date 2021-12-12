@@ -145,6 +145,9 @@ http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437370
 #EXTINF:-1,PRO TV
 http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437371
 
+#EXTINF:-1,PRO TV
+http://84.76.155.113:9981/stream/channelid/1506114275?ticket=E630B567502A3B1ECF0804F74512C0AC5FF3E2FD&profile=pass
+
 #EXTINF:-1,PRO 2
 http://hls.protv.md/acasatv/acasatv.m3u8?checkedby:iptvcat.com
 
