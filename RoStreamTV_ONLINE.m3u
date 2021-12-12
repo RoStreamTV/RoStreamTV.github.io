@@ -2101,6 +2101,9 @@ http://84.76.155.113:9981/stream/channelid/1008097429?ticket=7B11BF8AC936D6A3FC4
 #EXTINF:-1,Nickelodeon
 http://84.76.155.113:9981/stream/channelid/218780433?ticket=5CC7DACAFCDBD6DE691D4DFD6C7E8C8CED617E89&profile=pass
 
+#EXTINF:-1,Nickelodeon
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/6458.ts
+
 #EXTINF:-1,TG Junior
 https://iptvcat.com/my_list/s/25cec1866bc56bf92ffb4359297bb5fa.m3u8
 
