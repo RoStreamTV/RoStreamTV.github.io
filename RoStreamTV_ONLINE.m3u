@@ -157,6 +157,9 @@ http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55401
 #EXTINF:-1,PRO 2
 http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437289
 
+#EXTINF:-1,PRO 2
+http://84.76.155.113:9981/stream/channelid/457103253?ticket=0606B3C399895974CD18B0B71ECB4084BC4F2944&profile=pass
+
 #EXTINF:-1,Tele7ABC (Fara Stream)
 http://hls.protv.md/acasatv/acasatv.m3u8
 
