@@ -337,6 +337,9 @@ http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55395
 #EXTINF:-1,TVR 3
 http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437287
 
+#EXTINF:-1,TVR 3
+http://84.76.155.113:9981/stream/channelid/1426574604?ticket=7FDEDA304D897513D31789E5D726D3AA971F1E96&profile=pass
+
 #EXTINF:-1,Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
