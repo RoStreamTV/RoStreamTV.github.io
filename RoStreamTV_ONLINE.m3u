@@ -700,28 +700,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=511&deviceId=5d81607ab737153ea3c1c80e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 
 #EXTINF:-1,PRO Cinema
-https://iptvcat.com/my_list/s/5d3f56efe85039c72d5978a44e9053ac.m3u8
-
-#EXTINF:-1,PRO Cinema
-http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/228928?checkedby:iptvcat.com
-
-#EXTINF:-1,PRO Cinema
-https://iptvcat.com/my_list/s/d75041aecaa44ca0738658b1ad9472dd.m3u8
-
-#EXTINF:-1,PRO Cinema
-http://goodtv.xyz:2052/Mike/Mike123/2475617?checkedby:iptvcat.com
-
-#EXTINF:-1,PRO Cinema
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4798
-
-#EXTINF:-1,PRO Cinema
-http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/14590
-
-#EXTINF:-1,PRO Cinema
-http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55403
-
-#EXTINF:-1,PRO Cinema
-http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437365
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/71027
 
 #EXTINF:-1,DIGI Sport 1
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4524
