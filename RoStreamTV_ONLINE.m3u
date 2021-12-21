@@ -702,6 +702,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3
 #EXTINF:-1,PRO Cinema
 http://iptvvi.com:80/Bektash/qNvXcDD98fPC/71027
 
+#EXTINF:-1,HBO 2
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKdyR7jh0Io51xQJImWYej8aLzlcJCD3WlDYrHWZwUNB/ts
+
 #EXTINF:-1,DIGI Sport 1
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4524
 
