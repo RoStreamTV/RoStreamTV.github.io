@@ -2221,6 +2221,9 @@ https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1,NeTV
 http://home-playtv.com:8080/LatinoAmericanaTV/HetyJC567sfdh/197039
 
+#EXTINF:-1,NeTV
+http://qqtv.nl:8080/masud/masud/11812
+
 #EXTINF:-1,CBN Family
 https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
