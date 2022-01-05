@@ -642,6 +642,9 @@ http://195.42.138.42:1935/realitatea/star/playlist.m3u8
 #EXTINF:-1,Euronews
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1039
 
+#EXTINF:-1,Euronews
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,HBO
 http://asbx.xyz:80/gabi/123456/6286
 
