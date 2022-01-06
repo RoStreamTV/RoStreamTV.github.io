@@ -1774,6 +1774,9 @@ http://210.210.155.35/session/28a85b64-76a2-11eb-9c73-afe8b7106453/dr9445/h/h144
 #EXTINF:-1,Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
+#EXTINF:-1,Animax
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+
 #EXTINF:-1,AniPlus
 http://210.210.155.35/session/3e558b88-76a4-11eb-9cb2-bbe292cb16fb/dr9445/h/h02/index.m3u8
 
