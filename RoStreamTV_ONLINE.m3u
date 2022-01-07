@@ -645,6 +645,9 @@ http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1039
 #EXTINF:-1,Euronews
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1,Euronews
+http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/12363
+
 #EXTINF:-1,HBO
 http://asbx.xyz:80/gabi/123456/6286
 
