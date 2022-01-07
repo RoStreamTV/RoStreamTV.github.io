@@ -2005,6 +2005,9 @@ https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 #EXTINF:-1,Deutsche Welle
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
+#EXTINF:-1,Deutsche Welle
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36878
+
 #EXTINF:-1,Antena 3
 http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/25529
 
