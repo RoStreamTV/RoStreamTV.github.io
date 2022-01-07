@@ -786,8 +786,8 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=Nq
 #EXTINF:-1,Look Sport
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
-#EXTINF:-1,Sports TV (Fara Stream)
-http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1,Sports TV
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51899
 
 #EXTINF:-1,Telekom Sport 1
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12727
