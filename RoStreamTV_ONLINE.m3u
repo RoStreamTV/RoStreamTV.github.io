@@ -59,8 +59,6 @@ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessioni
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 #EXTINF:-1 ,Bucovina TV
 http://46.4.14.12:9999/btvsvlive/playlist.m3u8
-#EXTINF:-1 ,Bucovina TV
-http://yeninesiliptv.com:8080/ediz99/ediz9999/58763
 #EXTINF:-1 ,Kanal D
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 ,Kanal D
