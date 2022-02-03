@@ -41,8 +41,6 @@ http://hls.protv.md/acasatv/acasatv.m3u8
 http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1 ,Nova TV
 http://novapress.ro:1935/live/nova/playlist.m3u8
-#EXTINF:-1 ,TV Arad
-https://live.djemba.ro/live/tvaradlive/chunklist_w133165805.m3u8
 #EXTINF:-1 ,TV Buzau
 http://95.77.16.67:8080/
 #EXTINF:-1 ,PRO TV International
