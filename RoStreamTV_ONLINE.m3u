@@ -187,6 +187,8 @@ http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec5
 http://103.194.169.171:8282/RO_DIGI_SPORT2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 ,Eleven Sport 1
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51606
+#EXTINF:-1,Eleven Sport 1
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92766
 #EXTINF:-1 ,Eleven Sport 2
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51607
 #EXTINF:-1 ,PRO X
