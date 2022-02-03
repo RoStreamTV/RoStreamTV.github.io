@@ -463,6 +463,8 @@ http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
 http://pyramidsiptv.com:8080/mohamed/mohamed123/88277
 #EXTINF:-1 ,Nickelodeon
 http://pyramidsiptv.com:8080/mohamed/mohamed123/67890
+#EXTINF:-1,Nickelodeon
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92825
 #EXTINF:-1 ,TG Junior
 https://iptvcat.com/my_list/s/25cec1866bc56bf92ffb4359297bb5fa.m3u8
 #EXTINF:-1 ,TG Junior
