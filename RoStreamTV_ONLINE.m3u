@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Antena 1
-http://yeninesiliptv.com:8080/ediz99/ediz9999/58747
 #EXTINF:-1 ,Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
 #EXTINF:-1 ,Antena Comedy
