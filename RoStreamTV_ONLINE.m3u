@@ -187,6 +187,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815eb88
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - The Addams Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=511&deviceId=5d81607ab737153ea3c1c80e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1,HBO 2
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92772
 #EXTINF:-1 ,DIGI Sport 1
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 ,DIGI Sport 2
