@@ -43,8 +43,6 @@ http://hls.protv.md/acasatv/acasatv.m3u8
 http://novapress.ro:1935/live/nova/playlist.m3u8
 #EXTINF:-1 ,TV Buzau
 http://95.77.16.67:8080/
-#EXTINF:-1 ,Tele2 Drobeta
-https://stream.tele2drobeta.ro/hls/live.stream.m3u8
 #EXTINF:-1 ,TeleM Botosani
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 ,A7 TV
