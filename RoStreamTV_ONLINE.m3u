@@ -296,10 +296,6 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 ,TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1 ,TRT World
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/25.ts
-#EXTINF:-1 ,Das Erste 1
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/173.ts
 #EXTINF:-1 ,NeTV
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 ,NeTV
@@ -345,15 +341,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 ,Deutsche Welle
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 ,Crackle TV
-https://iptvcat.com/my_list/s/75c187bb1d1f4668b41aa4fc643258d0.m3u8
-#EXTINF:-1 ,Crackle TV
 https://crackle-plex.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 ,Crackle TV
-https://iptvcat.com/my_list/s/bc76dda7929d466c5408b8d40effb8fa.m3u8
-#EXTINF:-1 ,Crackle TV
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Crackle TV
-https://iptvcat.com/my_list/s/f5d68f516cd09e03f34a2c5c78d3cba5.m3u8
 #EXTINF:-1 ,Crackle TV
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Crackle TV
