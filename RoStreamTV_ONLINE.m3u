@@ -153,20 +153,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=511&deviceId=5d81607ab737153ea3c1c80e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1,HBO 2
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92772
-#EXTINF:-1 ,DIGI Sport 1
-http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1 ,DIGI Sport 2
-http://103.194.169.171:8282/RO_DIGI_SPORT2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1 ,Eleven Sport 1
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51606
 #EXTINF:-1,Eleven Sport 1
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92766
-#EXTINF:-1 ,Eleven Sport 2
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51607
 #EXTINF:-1,Eleven Sport 2
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92777
-#EXTINF:-1 ,PRO X
-http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/14123
 #EXTINF:-1 ,Look PLUS
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 ,Look Sport
