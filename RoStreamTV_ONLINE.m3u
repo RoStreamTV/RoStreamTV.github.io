@@ -246,10 +246,6 @@ http://www.online.tvimpact.live:8080/hls/impact_tv.m3u8
 http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTINF:-1 ,Noroc TV
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:-1 ,Balkanika
-https://iptvcat.com/my_list/s/8806efaf33f86a3ebb2d09833e23ce66.m3u8
-#EXTINF:-1 ,Favorit TV
-http://yeninesiliptv.com:8080/ediz99/ediz9999/58824
 #EXTINF:-1 ,Atomic TV
 http://89.47.97.15/atomictv/atomictv.m3u8
 #EXTINF:-1 ,ducktv
