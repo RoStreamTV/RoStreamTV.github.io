@@ -251,8 +251,6 @@ http://89.47.97.15/atomictv/atomictv.m3u8
 #EXTINF:-1 ,ducktv
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,ducktv
-http://yeninesiliptv.com:8080/ediz99/ediz9999/58810
-#EXTINF:-1 ,ducktv
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Pluto TV - Naruto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=836&deviceId=5da0c85bd2c9c10009370984&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
