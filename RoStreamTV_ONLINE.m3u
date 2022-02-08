@@ -207,6 +207,8 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1,beIN Sports 1
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17410
+#EXTINF:-1,beIN Sports 1
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/52925
 #EXTINF:-1 ,Pluto TV - Cats
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db6a56ce10f0b0009e64037/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=4f8f5d53-0580-11eb-8b9f-0242ac110002&deviceId=5db6a56ce10f0b0009e64037&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - Cats
