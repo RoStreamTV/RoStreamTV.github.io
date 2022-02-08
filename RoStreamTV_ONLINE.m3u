@@ -111,6 +111,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 https://stream1.profit.ro:1945/profit/livestream/chunklist_w1969009807.m3u8
 #EXTINF:-1 ,Profit News
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1,Profit News
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100278
 #EXTINF:-1 ,Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1 ,ABC News
