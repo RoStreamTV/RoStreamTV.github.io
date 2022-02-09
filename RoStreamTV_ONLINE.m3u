@@ -15,8 +15,6 @@ http://novapress.ro:1935/live/nova/playlist.m3u8
 http://95.77.16.67:8080/
 #EXTINF:-1 ,TeleM Botosani
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
-#EXTINF:-1,Columna TV
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100267
 #EXTINF:-1 ,A7 TV
 https://amsix214.streamkit.tv/edge/_definst_/aseventv_1000/chunklist.m3u8?wowzasessionid=632018258&cn=aseventv
 #EXTINF:-1 ,A7 TV
