@@ -306,8 +306,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2d1ce
 #EXTINF:-1 ,Nickelodeon
 http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
 #EXTINF:-1,Nickelodeon
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92825
-#EXTINF:-1,Nickelodeon
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/50405
 #EXTINF:-1,Nickelodeon
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17241
