@@ -148,17 +148,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab
 #EXTINF:-1 ,Pluto TV - The Addams Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=511&deviceId=5d81607ab737153ea3c1c80e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1,HBO 2
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92772
-#EXTINF:-1,HBO 2
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17298
 #EXTINF:-1,HBO 2
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17338
 #EXTINF:-1,HBO 2
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64783
-#EXTINF:-1,Eleven Sport 1
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92766
-#EXTINF:-1,Eleven Sport 2
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92777
 #EXTINF:-1,Eleven Sport 2
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/52921
 #EXTINF:-1 ,Look PLUS
