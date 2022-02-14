@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Antena 1
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/36402?checkedby:iptvcat.com
+#EXTINF:-1,Antena 1
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/15005?checkedby:iptvcat.com
+#EXTINF:-1,Antena 1
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5281?checkedby:iptvcat.com
 #EXTINF:-1 ,Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1611115175&wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=&wowzatokenstarttime=1611071975&checkedby:iptvcat.com
 #EXTINF:-1 ,Prima TV
@@ -15,6 +21,10 @@ http://novapress.ro:1935/live/nova/playlist.m3u8
 http://95.77.16.67:8080/
 #EXTINF:-1 ,TeleM Botosani
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1,Columna TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100267?checkedby:iptvcat.com
+#EXTINF:-1,Columna TV
+http://mains.best:2086/htyrvtit/3650427/100267?checkedby:iptvcat.com
 #EXTINF:-1 ,A7 TV
 https://amsix214.streamkit.tv/edge/_definst_/aseventv_1000/chunklist.m3u8?wowzasessionid=632018258&cn=aseventv
 #EXTINF:-1 ,A7 TV
@@ -25,16 +35,46 @@ https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 #EXTINF:-1 ,Alfa Omega TV
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+#EXTINF:-1,Alfa Omega TV
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/36443?checkedby:iptvcat.com
+#EXTINF:-1,Alfa Omega TV
+http://mains.best:2086/htyrvtit/3650427/100263?checkedby:iptvcat.com
+#EXTINF:-1,Alfa Omega TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100263?checkedby:iptvcat.com
+#EXTINF:-1,Alfa Omega TV
+http://jessicatv.site:8080/Mcnsi/7210db0d/6999?checkedby:iptvcat.com
+#EXTINF:-1,Alfa Omega TV
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/14170?checkedby:iptvcat.com
+#EXTINF:-1,Alfa Omega TV
+http://4iptv.xyz:8080/sofia/sofia/54460?checkedby:iptvcat.com
 #EXTINF:-1 ,Bucovina TV
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 #EXTINF:-1 ,Bucovina TV
 http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF:-1,Bucovina TV
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100266?checkedby:iptvcat.com
+#EXTINF:-1,Bucovina TV
+http://mains.best:2086/htyrvtit/3650427/100266?checkedby:iptvcat.com
+#EXTINF:-1,Bucovina TV
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/36471?checkedby:iptvcat.com
+#EXTINF:-1,Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Bucovina TV
+https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Bucovina TV
+https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Kanal D
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 ,Intermedia TV
 http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
 #EXTINF:-1 ,Intermedia TV
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:-1,Agro TV
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5267?checkedby:iptvcat.com
+#EXTINF:-1,Agro TV
+http://jessicatv.site:8080/Mcnsi/7210db0d/2232?checkedby:iptvcat.com
 #EXTINF:-1 ,Speranta TV HD
 https://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
 #EXTINF:-1 ,Speranta TV HD
@@ -51,8 +91,38 @@ http://5.2.155.213:1935/MetropolaTV/Metro/playlist.m3u8
 http://5.2.155.213:1935/MetropolaTV/Metro/chunklist_w544634241.m3u8
 #EXTINF:-1 ,Smart TV HD
 https://stream-aleph.m.ro/Aleph/Smartv.stream/playlist.m3u8
+#EXTINF:-1,Antena 3
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/36403?checkedby:iptvcat.com
+#EXTINF:-1,Antena 3
+http://4iptv.xyz:8080/sofia/sofia/54431?checkedby:iptvcat.com
+#EXTINF:-1,Antena 3
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/15004?checkedby:iptvcat.com
+#EXTINF:-1,Antena 3
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5280?checkedby:iptvcat.com
+#EXTINF:-1,Antena Stars
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/36404?checkedby:iptvcat.com
+#EXTINF:-1,Antena Stars
+http://4iptv.xyz:8080/sofia/sofia/54436?checkedby:iptvcat.com
+#EXTINF:-1,Antena Stars
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16003?checkedby:iptvcat.com
+#EXTINF:-1,Antena Stars
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5279?checkedby:iptvcat.com
 #EXTINF:-1 ,B1
 http://stream.adunity.com/b1/b1_640-.m3u8
+#EXTINF:-1,B1
+http://line.lemotv.cc:80/Matthew4564/7438844/219704.ts?checkedby:iptvcat.com
+#EXTINF:-1,B1
+https://ch.iptvmate.net/f971a1699633eca2551d622a7e168e25.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,B1
+https://stream.adunity.com/b1/b1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,B1
+http://stream.adunity.com/b1/b1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,B1
+http://jessicatv.site:8080/Mcnsi/7210db0d/2228?checkedby:iptvcat.com
+#EXTINF:-1,B1
+http://4iptv.xyz:8080/sofia/sofia/54437?checkedby:iptvcat.com
+#EXTINF:-1,B1
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5299?checkedby:iptvcat.com
 #EXTINF:-1 ,Realitatea TV PLUS
 https://live.realitatea.net/livertmp/plus/playlist.m3u8
 #EXTINF:-1 ,Realitatea TV PLUS
@@ -75,10 +145,18 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/50544
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/50559
 #EXTINF:-1,CNN
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17598
+#EXTINF:-1,DIGI 24
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/36390?checkedby:iptvcat.com
+#EXTINF:-1,DIGI 24
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/15000?checkedby:iptvcat.com
 #EXTINF:-1 ,Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1,Aleph News
+http://jessicatv.site:8080/Mcnsi/7210db0d/276012?checkedby:iptvcat.com
 #EXTINF:-1 ,Canal 33
 http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/52538
+#EXTINF:-1,Canal 33
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/688489?checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - CNN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 ,Profit News
@@ -137,6 +215,14 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17372
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64797
 #EXTINF:-1,HBO 
 http://toptentv.xyz:8080/3143521311618672/2598854265/238479
+#EXTINF:-1,HBO
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437337
+#EXTINF:-1,HBO
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437338
+#EXTINF:-1,HBO
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437341
+#EXTINF:-1,Film Now
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437311
 #EXTINF:-1 ,Pluto TV - Baywatch
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - Baywatch
@@ -147,18 +233,34 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815eb88
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - The Addams Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=511&deviceId=5d81607ab737153ea3c1c80e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1,PRO Cinema
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437365
 #EXTINF:-1,HBO 2
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17298
 #EXTINF:-1,HBO 2
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17338
 #EXTINF:-1,HBO 2
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64783
+#EXTINF:-1,HBO 2
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437335
+#EXTINF:-1,HBO 2
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437339
+#EXTINF:-1,DIGI Sport 1
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437313
+#EXTINF:-1,DIGI Sport 2
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437314
 #EXTINF:-1,Eleven Sport 2
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/52921
+#EXTINF:-1,PRO X
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437369
 #EXTINF:-1 ,Look PLUS
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 ,Look Sport
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1,Look Sport
+http://pelicanhosting.xyz:80/mdsufwdb/3141315334/437350
+#EXTINF:-1,Sports TV
+http://goplays.xyz:8080/KARY/KARY123/8623
 #EXTINF:-1,Telekom Sport 1
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/53855
 #EXTINF:-1 ,Pluto TV - Fight
@@ -189,6 +291,14 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17410
 #EXTINF:-1,beIN Sports 1
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/52925
+#EXTINF:-1,Realitatea Sportiva
+https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
+#EXTINF:-1,Telekom Sport 3
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28998
+#EXTINF:-1,DIGI Animal World
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/36392?checkedby:iptvcat.com
+#EXTINF:-1,DIGI Animal World
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/14999?checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - Cats
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db6a56ce10f0b0009e64037/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=4f8f5d53-0580-11eb-8b9f-0242ac110002&deviceId=5db6a56ce10f0b0009e64037&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - Cats
@@ -199,6 +309,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db044d78
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 ,Pluto TV - Cats
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db6a56ce10f0b0009e64037/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,DIGI Life
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/36394?checkedby:iptvcat.com
 #EXTINF:-1 ,TVSE Explore
 http://89.38.8.130:39419
 #EXTINF:-1 ,Pluto TV - Dogs
@@ -227,6 +339,10 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/49868
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/49869
 #EXTINF:-1,Fashion TV
 http://toptentv.xyz:8080/3143521311618672/2598854265/238516
+#EXTINF:-1,Arcadia TV World
+http://93.114.194.146:80/4560972750676384/Bl7pvsBfRK/52534?checkedby:iptvcat.com
+#EXTINF:-1,Arcadia TV World
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/688490?checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - Space
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - Space
@@ -245,6 +361,8 @@ http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:-1 ,Bel Radio Pros
 https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8
+#EXTINF:-1,1 Music Channel
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/36407?checkedby:iptvcat.com
 #EXTINF:-1 ,Radio 3Net
 http://media.3netmedia.ro:8080/hls/stream.m3u8
 #EXTINF:-1 ,Impact TV
@@ -273,6 +391,10 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17243
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17230
 #EXTINF:-1,Boomerang
 http://toptentv.xyz:8080/3143521311618672/2598854265/238488
+#EXTINF:-1,Boomerang
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/36409?checkedby:iptvcat.com
+#EXTINF:-1,Boomerang
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5327?checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - MINECRAFTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=815&deviceId=5812b821249444e05d09cc4c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - MINECRAFTV
@@ -293,6 +415,8 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64820
 http://toptentv.xyz:8080/3143521311618672/2598854265/238493
 #EXTINF:-1,Cartoon Network
 http://toptentv.xyz:8080/3143521311618672/2598854265/238494
+#EXTINF:-1,Cartoon Network
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/12071?checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - Inspector Gadget
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=efbfa162-0713-11eb-9b92-0242ac110002&deviceId=5dbc2d1ce10f0b0009e6cf9e&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 ,Pluto TV - Inspector Gadget
