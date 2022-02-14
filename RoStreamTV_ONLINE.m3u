@@ -152,8 +152,6 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 ,Aleph Business HD 1080p
 https://stream-aleph.m.ro/Aleph/Alephbiz.stream/playlist.m3u8
 #EXTINF:-1 ,Euronews
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1039
-#EXTINF:-1 ,Euronews
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Euronews
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/50557
