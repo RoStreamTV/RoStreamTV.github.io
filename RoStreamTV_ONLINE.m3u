@@ -9,9 +9,9 @@ https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=16
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1611115175&wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=&wowzatokenstarttime=1611071975
 #EXTINF:-1 ,Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
-#EXTINF:-1 ,PRO 2
+#EXTINF:-1 ,Acasa
 http://hls.protv.md/acasatv/acasatv.m3u8
-#EXTINF:-1 ,PRO 2
+#EXTINF:-1 ,Acasa
 http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1 ,Nova TV
 http://novapress.ro:1935/live/nova/playlist.m3u8
@@ -55,7 +55,7 @@ https://amsix214.streamkit.tv/edge/_definst_/sperantatv_1200/chunklist.m3u8?wowz
 http://89.28.25.122/hls/tnt_md.m3u8
 #EXTINF:-1 ,Informatia TV
 http://89.34.224.16/informatia.m3u8
-#EXTINF:-1 ,RO Channel
+#EXTINF:-1 ,IT Channel
 http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
 #EXTINF:-1 ,Metropola TV
 http://5.2.155.213:1935/MetropolaTV/Metro/playlist.m3u8
